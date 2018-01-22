@@ -1,0 +1,254 @@
+body
+{
+background-image: url(101.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#navi
+{
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: gainsboro;
+    opacity: 100%;
+    
+}
+#b
+{
+    border: solid white 2px;
+    padding-bottom: 200px;
+    text-align: center;
+    margin-right: 350px;
+    margin-left: 350px;
+    border-collapse: collapse;
+    background-color: white;
+}
+#h
+{
+    color: darkred;
+    font-family: Elephant;
+    font-size: 70px;
+    margin-top: -10px;
+}
+#co
+{
+    color: dimgray;;
+    font-family: arial;
+    font-size: 20px;
+    margin-top: -10px;
+}
+#x
+{
+color: white;
+text-decoration-color: white;
+text-decoration-line: none;
+}
+#i1
+{
+text-decoration-line: none;
+text-decoration-color: gray;
+color: cadetblue;
+}
+#b2
+{
+    border: solid darkred 2px;
+    margin-left: 20px;
+    margin-right: 400px;
+    padding: 5px 5px 5px 5px;
+    color: white;
+    background-color: darkred;
+    align-self: center;
+    border-radius: 3px;
+    -decoration-color: white;
+    text-decoration-line: none;
+    transition-duration: 0.4s;
+}
+#b3
+{
+    border: solid dodgerblue 2px;
+    margin-left: 20px;
+    margin-right: 400px;
+    padding: 5px 5px 5px 5px;
+    color: white;
+    background-color: dodgerblue;
+    align-self: center;
+    border-radius: 3px;
+    font-family: times new roman;
+   transition-duration: 0.4s;
+    
+}
+#i
+{
+width: 20px;
+height: 20px;
+align-self:center;
+margin-left: -10px;
+margin-bottom: -5px;
+}
+#im
+{
+width: 20px;
+height: 20px;
+align-self:center;
+margin-left: 5px;
+margin-bottom: -5px;
+}
+#p
+{
+float: left;
+margin-top: 10px;
+text-align: left;
+margin-left: 15px;
+color:gray;
+font-size: 13px;
+}
+#p1
+{
+text-decoration-color: cadetblue;
+text-decoration-line: none;
+color: cadetblue;
+text-decoration: none;
+font-size:14px;
+}
+#w
+{
+margin-top: -330px;
+margin-left: 650px;
+font-size: 20px;
+font-family: arial;
+}
+h6
+{
+color: black;
+font-family: arial;
+margin-left: 10px;
+}
+#i0
+{
+width: 1px;
+height: 160px;
+margin-top: -50px;
+opacity: 0.2;
+}
+#k
+{
+margin-left: 10px;
+margin-top: -140px;
+}
+#k1
+{
+padding-bottom: 5px;
+padding-top: 5px;
+padding-right: 110px;
+border-radius:3px; 
+}
+#k2
+{
+padding-bottom: 5px;
+padding-top: 5px;
+padding-right: 110px;
+border-radius:3px;
+}
+#c1
+{
+font-size: 12px;
+text-decoration-color: gray;
+text-decoration-line: none;
+margin-top: 10px;
+}
+#c1:hover
+{
+text-decoration: underline;
+}
+#c
+{
+margin-top: 5px;
+}
+#k3
+{
+background-color: dodgerblue;
+border-color: dodgerblue;
+color: white;
+border-radius: 2px;
+margin-left: 130px;
+padding:2px 7px 2px 7px;
+}
+#o1
+{
+color: blue;
+margin-left: 600px;
+margin-top: -7px;
+padding:4px 4px 4px 4px;
+}
+#o2
+{
+color: blue;
+margin-left: 600px;
+margin-top: -45px;
+padding:4px 4px 4px 4px;
+
+}
+#im1
+{
+margin-top: 40px;
+margin-left: -250px;
+width: 652px;
+height: 1px;
+opacity: 0.2;
+}
+#im2
+{
+width: 650px;
+height: 1px;
+margin-top: -40px;
+margin-left: 350px;
+vertical-align: middle;
+opacity: 0.2;
+}
+#im3
+{
+width: 650px;
+height: 1px;
+margin-top: -40px;
+margin-left: 350px;
+vertical-align: middle;
+opacity: 0.2;
+}
+#l
+{
+text-decoration-color: dodgerblue;
+text-decoration-line: none;
+margin-bottom: -20px;
+text-align: center;
+}
+
+#foot
+{
+margin-top: -40px;
+}
+#x1
+{
+color: gray;
+text-decoration-color: gray;
+text-decoration-line: none;
+}
+#b2:hover
+{
+opacity: 0.5;
+}
+#b3:hover
+{
+opacity: 0.5;
+}
+
+#x1:hover
+{
+text-decoration: underline;
+}
+
+
+
+
+
+
